@@ -26,7 +26,7 @@ The coffee shop is struggling to understand its sales performance. The specific 
 <li><b>Excel Files:</b> Used for additional data preparation and cleaning tasks.</li>
 
 ## Data Cleaning and Analysis
-Data cleaning was performed in Excel and power bi to ensure data integrity and consistency before importing it into Power BI.
+Data cleaning was performed in Excel and transform into power bi power query to ensure data integrity and consistency.
 
 ### Excel
 <li><b>Changing Data Types:</b> Ensured that numeric columns (e.g., sales amount, quantity sold, order ID) were set to appropriate numeric data types.</li>
@@ -42,7 +42,29 @@ Data cleaning was performed in Excel and power bi to ensure data integrity and c
 <li><b>Data Validation:</b> Implemented data validation rules to ensure data quality and accuracy.</li>
 <li><b>Data Transformation:</b> Utilized Power Query Editor to perform data cleaning operations such as removing duplicates, filtering rows, and transforming data types.</li>
 
-### MySql & DAX:
+### MySql & DAX
 Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours
+
+## Visualization Used in Power BI
+<li><b>Total Sales Analysis:</b> Card and line chart to visualize total sales over different time periods.</li>
+<li><b>Total Order Analysis:</b> Card and line chart to show the number of orders over different time periods.</li>
+<li><b>Total Quantity Sold Analysis:</b> Card and line chart to display the total quantity of products sold.</li>
+<li><b>Sales Analysis by Weekdays and Weekends:</b> pie chart to compare sales on weekdays versus weekends.</li>
+<li><b>Sales Analysis by Store Location:</b> Bar chart to show sales performance by location.</li>
+<li><b>Daily Sales with Average Line:</b> Column chart with an average line to show daily sales trends.</li>
+<li><b>Sales Analysis by Product Category:</b> Bar chart to display sales distribution across different product categories.</li>
+<li><b>Top 10 Products by Sales:</b> Bar charts to highlight the top 10 products based on sales.</li>
+<li><b>Sales Analysis by Days and Hours:</b> Matrix chart to analyze sales performance across different days and hours.</li>
+<li><b>Calendar map for monthly and daywise:</b> Matrix chart used to filter analysis based on month and day.</li>
+
+## Exploratory Data Analysis (EDA)
+<li>What are the total sales and sales trends over different time periods?</li>
+<li>How do the total orders and quantity sold vary over time?</li>
+<li>What are the sales patterns on weekdays versus weekends?</li>
+<li>How does sales performance vary across different store locations?</li>
+<li>What are the daily sales trends, and how do they compare to the average sales?</li>
+<li>Which product categories contribute the most to sales?</li>
+<li>Which are the top 10 products by sales?</li>
+<li>How does sales performance vary by days and hours?</li>
 
 
