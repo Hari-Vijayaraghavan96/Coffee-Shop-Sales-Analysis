@@ -43,7 +43,7 @@ Data cleaning was performed in Excel and transform into power bi power query to 
 <li><b>Data Transformation:</b> Utilized Power Query Editor to perform data cleaning operations such as removing duplicates, filtering rows, and transforming data types.</li>
 
 ### MySql & DAX
-Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours
+Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours.
 
 ## Visualization Used in Power BI
 <li><b>Total Sales Analysis:</b> Card and line chart to visualize total sales over different time periods.</li>
@@ -56,6 +56,7 @@ Utilized MySql and DAX to make measures and calculations for Total sales, Total 
 <li><b>Top 10 Products by Sales:</b> Bar charts to highlight the top 10 products based on sales.</li>
 <li><b>Sales Analysis by Days and Hours:</b> Matrix chart to analyze sales performance across different days and hours.</li>
 <li><b>Calendar map for monthly and daywise:</b> Matrix chart used to filter analysis based on month and day.</li>
+<li><b>Tooltip in calender map and days & hours chart</b> Implemented tooltip for the calendar map and matrix chart to display detailed information when hovering over each day and hour for analysis.</li>
 
 ## Exploratory Data Analysis (EDA)
 <li>What are the total sales and sales trends over different time periods?</li>
@@ -66,5 +67,20 @@ Utilized MySql and DAX to make measures and calculations for Total sales, Total 
 <li>Which product categories contribute the most to sales?</li>
 <li>Which are the top 10 products by sales?</li>
 <li>How does sales performance vary by days and hours?</li>
+
+## Result
+![image](https://github.com/Hari-Vijayaraghavan96/Coffee-Shop-Sales-Analysis/assets/163993617/8072950b-9045-4817-ad46-31299bb68ca3)
+
+## Recommendations
+Based on the analysis, the following insights and recommendations were derived:
+<li><b>Optimize Product Mix:</b> Focus on high-performing products and consider phasing out or improving low-performing products.</li>
+<li><b>Enhance Location Performance:</b> Identify locations with lower sales and analyze factors contributing to underperformance. Implement targeted strategies to boost sales in these locations.</li>
+<li><b>Weekday vs. Weekend Promotions:</b> Leverage sales patterns to design promotions and marketing campaigns tailored for weekdays and weekends.</li>
+<li><b>Time-Based Marketing:</b> Utilize insights from daily and hourly sales analysis to optimize opening hours and schedule targeted promotions.</li>
+<li><b>Customer Preferences:</b> Use product sales data to understand customer preferences and tailor offerings accordingly.</li>
+
+## Conclusion
+The Coffee Shop Sales Analysis dashboard provides valuable insights into the sales performance of the coffee shop. By understanding key metrics and trends, the company can make data-driven decisions to enhance sales strategies, improve product offerings, and optimize overall performance.
+
 
 
