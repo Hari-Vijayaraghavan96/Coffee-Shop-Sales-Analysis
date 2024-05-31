@@ -26,7 +26,7 @@ The coffee shop is struggling to understand its sales performance. The specific 
 <li><b>Excel Files:</b> Used for additional data preparation and cleaning tasks.</li>
 
 ## Data Cleaning and Analysis
-Data cleaning was performed in Excel and transform into power bi power query to ensure data integrity and consistency.
+Data cleaning was performed in Excel and transformed into power bi power query to ensure data integrity and consistency.
 
 ### Excel
 <li><b>Changing Data Types:</b> Ensured that numeric columns (e.g., sales amount, quantity sold, order ID) were set to appropriate numeric data types.</li>
